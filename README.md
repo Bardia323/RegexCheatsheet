@@ -188,7 +188,7 @@
 ```
 ### Making this List
 ```
-turn this:
+turning this:
 #Show only all uppercase letters
     re.findall('[A-Z]', text)
 
